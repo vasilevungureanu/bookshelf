@@ -4,7 +4,9 @@
 
 > My personal bookshelf with the technical books that I consider worth reading
 
-There are hundreds and thousands of resources on the internet for this topic, but only a few of them have a high concentration of valuable content.
+There are hundreds and thousands of great technical books.
+I mention only the technical books that I personally read and consider them worth reading.
+Also, I manage a list of technical books that I have a high interest in currently.
 
 ## Contents
 
