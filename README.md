@@ -24,7 +24,25 @@ Also, I manage a list of technical books that I have a high interest in currentl
 
 ### Good
 
-* []()
+* [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer?from_search=true&from_srp=true&qid=FnLaqtNfIJ&rank=1)
+* [The Software Craftsman: Professionalism, Pragmatism, Pride](https://www.goodreads.com/book/show/23215733-the-software-craftsman?from_search=true&from_srp=true&qid=pd3MkBt8bW&rank=2)
+* [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code?from_search=true&from_srp=true&qid=DB4ONkqgKh&rank=1)
+* [Clean Architecture](https://www.goodreads.com/book/show/18043011-clean-architecture?from_search=true&from_srp=true&qid=PGY6bQ1kxs&rank=1)
+* [Clean Agile: Back to Basics](https://www.goodreads.com/book/show/45280021-clean-agile?from_search=true&from_srp=true&qid=f4ivuQTGfM&rank=1)
+* [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code?from_search=true&from_srp=true&qid=7XSCpcZn1t&rank=1)
+* [Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation](https://www.goodreads.com/book/show/8686650-continuous-delivery?from_search=true&from_srp=true&qid=jWpcAtTNGc&rank=1)
+* [Continuous Delivery Pipelines - How to Build Better Software Faster](https://www.goodreads.com/book/show/56771495-continuous-delivery-pipelines---how-to-build-better-software-faster?from_search=true&from_srp=true&qid=KApTGnXo6L&rank=2)
+* [Continuous Integration: Improving Software Quality and Reducing Risk](https://www.goodreads.com/book/show/1311542.Continuous_Integration?from_search=true&from_srp=true&qid=m3HreUJ3ax&rank=2)
+* [Fifty Quick Ideas to Improve Your User Stories](https://www.goodreads.com/book/show/21411450-fifty-quick-ideas-to-improve-your-user-stories?from_search=true&from_srp=true&qid=FEe8TD31uZ&rank=1)
+* [Domain-Driven Design Quickly](https://www.goodreads.com/book/show/2558105.Domain_Driven_Design_Quickly?from_search=true&from_srp=true&qid=HZCQaArLZd&rank=1)
+* [A Philosophy of Software Design](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design?from_search=true&from_srp=true&qid=QgTewZjGX0&rank=1)
+* [Technical Agile Coaching with the Samman method](https://www.goodreads.com/book/show/56659570-technical-agile-coaching-with-the-samman-method)
+* [The Coding Dojo Handbook](https://www.goodreads.com/book/show/17925612-the-coding-dojo-handbook)
+* [TDD](https://www.goodreads.com/book/show/32618000-tdd?from_search=true&from_srp=true&qid=GjOITM6GqI&rank=6)
+* [Quick Glance At: Agile Engineering Practices: Part 1: Writing Software](https://www.goodreads.com/book/show/54136102-quick-glance-at?from_search=true&from_srp=true&qid=NWAdZ3rIJC&rank=5)
+* [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.goodreads.com/book/show/48816586-software-engineering-at-google?from_search=true&from_srp=true&qid=SzmPE18nnR&rank=1)
+* [Building Mobile Apps at Scale: 39 Engineering Challenges](https://www.goodreads.com/book/show/57668267-building-mobile-apps-at-scale?from_search=true&from_srp=true&qid=opZcmAsoXD&rank=1)
+* [Kotlin in Action](https://www.goodreads.com/book/show/29242249-kotlin-in-action?from_search=true&from_srp=true&qid=kScxC4Z7Xl&rank=1)
 
 ### Want to read
 
