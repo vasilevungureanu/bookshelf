@@ -48,7 +48,28 @@ Also, I manage a list of technical books that I have a high interest in currentl
 
 ### Want to read
 
-* []()
+* [Own IT: How to succeed in your tech career](https://www.goodreads.com/book/show/56180233-own-it)
+* [Help Your Boss Help You](https://www.goodreads.com/book/show/57729490-help-your-boss-help-you)
+* [Ask Your Developer: How to Harness the Power of Software Developers and Win in the 21st Century](https://www.goodreads.com/book/show/48716700-ask-your-developer)
+* [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.goodreads.com/book/show/44135420-team-topologies?from_search=true&from_srp=true&qid=oHnsDSNTg8&rank=1)
+* [Accelerate: Building and Scaling High-Performing Technology Organizations](https://www.goodreads.com/book/show/35747076-accelerate?from_search=true&from_srp=true&qid=2I6BPTNtJ8&rank=5)
+* [The Healthy Programmer](https://www.goodreads.com/book/show/17229509-the-healthy-programmer)
+* [The Art of Agile Development](https://www.goodreads.com/book/show/1654215.The_Art_of_Agile_Development)
+* [All Allan Kelly's books](https://leanpub.com/u/allankelly)
+* [Specification by Example: How Successful Teams Deliver the Right Software](https://www.goodreads.com/book/show/10288718-specification-by-example)
+* [The BDD Books: Formulation](https://www.goodreads.com/book/show/53450097-the-bdd-books)
+* [The BDD Books: Discovery](https://www.goodreads.com/book/show/36126762-the-bdd-books)
+* [BDD in Action: Behavior-driven development for the whole software lifecycle](https://www.goodreads.com/book/show/20578311-bdd-in-action)
+* [Essential Test-Driven Development](https://www.goodreads.com/book/show/29952608-essential-test-driven-development)
+* [Fifty Quick Ideas To Improve Your Tests](https://www.goodreads.com/book/show/25564600-fifty-quick-ideas-to-improve-your-tests)
+* [User Story Mapping: Discover the Whole Story, Build the Right Product](https://www.goodreads.com/book/show/22221112-user-story-mapping?from_search=true&from_srp=true&qid=hKRETi5JQt&rank=1)
+* [Software, faster](https://www.goodreads.com/book/show/34209962-software-faster?from_search=true&from_srp=true&qid=4Kp5CfhxV6&rank=3)
+* [Software Estimation Without Guessing](https://www.goodreads.com/book/show/53104134-software-estimation-without-guessing)
+* [Quick Glance At: Agile Anti-Patterns](https://www.goodreads.com/book/show/38490227-quick-glance-at?from_search=true&from_srp=true&qid=NWAdZ3rIJC&rank=1)
+* [The Software Architect Elevator: Transforming Enterprises with Technology and Business Architecture](https://www.goodreads.com/book/show/49828197-the-software-architect-elevator?from_search=true&from_srp=true&qid=DYVPyCKxB5&rank=1)
+* [Software Architecture for Developers: Volume 1 - Technical leadership and the balance with agility](https://www.goodreads.com/book/show/33221518-software-architecture-for-developers?from_search=true&from_srp=true&qid=agAV9tvllm&rank=1)
+* [Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F#](https://www.goodreads.com/book/show/34921689-domain-modeling-made-functional)
+* [All Gerald Weinberg's books](https://www.goodreads.com/author/show/174075.Gerald_M_Weinberg?from_search=true&from_srp=true)
 
 ## Usage
 
