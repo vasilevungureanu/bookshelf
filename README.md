@@ -1,9 +1,5 @@
 # Bookshelf
 
-<a href="https://github.com/VasileUngureanu/repository-template/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>
-
-> My personal bookshelf with the technical books that I consider worth reading
-
 There are hundreds and thousands of great technical books.
 I mention only the technical books that I personally read and consider them worth reading.
 Also, I manage a list of technical books that I have a high interest in currently.
@@ -70,12 +66,3 @@ Also, I manage a list of technical books that I have a high interest in currentl
 * [Software Architecture for Developers: Volume 1 - Technical leadership and the balance with agility](https://www.goodreads.com/book/show/33221518-software-architecture-for-developers?from_search=true&from_srp=true&qid=agAV9tvllm&rank=1)
 * [Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F#](https://www.goodreads.com/book/show/34921689-domain-modeling-made-functional)
 * [All Gerald Weinberg's books](https://www.goodreads.com/author/show/174075.Gerald_M_Weinberg?from_search=true&from_srp=true)
-
-## Usage
-
-1. After local cloning run `./bootstrap.sh`.
-
-License
--------
-
-[MIT](LICENSE) @ 2021 Vasile Ungureanu
