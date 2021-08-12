@@ -44,7 +44,6 @@ Also, I manage a list of technical books that I have a high interest in currentl
 
 ### Want to read
 
-* [Own IT: How to succeed in your tech career](https://www.goodreads.com/book/show/56180233-own-it)
 * [Help Your Boss Help You](https://www.goodreads.com/book/show/57729490-help-your-boss-help-you)
 * [Ask Your Developer: How to Harness the Power of Software Developers and Win in the 21st Century](https://www.goodreads.com/book/show/48716700-ask-your-developer)
 * [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.goodreads.com/book/show/44135420-team-topologies?from_search=true&from_srp=true&qid=oHnsDSNTg8&rank=1)
