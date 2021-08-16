@@ -6,7 +6,7 @@ Also, I manage a list of technical books that I have a high interest in currentl
 
 ## Contents
 
-### Great
+### Read
 
 * [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.goodreads.com/book/show/10284614-the-clean-coder?from_search=true&from_srp=true&qid=EmJTczFoSi&rank=2)
 * [The Nature of Software Development](https://www.goodreads.com/book/show/23016056-the-nature-of-software-development?ac=1&from_search=true&qid=a8zueN851I&rank=1)
@@ -18,9 +18,6 @@ Also, I manage a list of technical books that I have a high interest in currentl
 * [Technical Blogging: Amplify Your Influence](https://www.goodreads.com/book/show/45856607-technical-blogging?ac=1&from_search=true&qid=aqMXdLQgnn&rank=1)
 * [The Tech Resume Inside Out](https://thetechresume.com/)
 * [Code: The Hidden Language of Computer Hardware and Software](https://www.goodreads.com/book/show/44882.Code?from_search=true&from_srp=true&qid=3JUv1rzBH8&rank=1)
-
-### Good
-
 * [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer?from_search=true&from_srp=true&qid=FnLaqtNfIJ&rank=1)
 * [The Software Craftsman: Professionalism, Pragmatism, Pride](https://www.goodreads.com/book/show/23215733-the-software-craftsman?from_search=true&from_srp=true&qid=pd3MkBt8bW&rank=2)
 * [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code?from_search=true&from_srp=true&qid=DB4ONkqgKh&rank=1)
