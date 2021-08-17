@@ -19,6 +19,7 @@ Also, I manage a list of technical books that I have a high interest in currentl
 * [The Tech Resume Inside Out](https://thetechresume.com/)
 * [Code: The Hidden Language of Computer Hardware and Software](https://www.goodreads.com/book/show/44882.Code?from_search=true&from_srp=true&qid=3JUv1rzBH8&rank=1)
 * [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer?from_search=true&from_srp=true&qid=FnLaqtNfIJ&rank=1)
+* [Beyond Legacy Code](https://www.goodreads.com/book/show/26088456-beyond-legacy-code?from_search=true&from_srp=true&qid=b8sRtkllYQ&rank=1)
 * [The Software Craftsman: Professionalism, Pragmatism, Pride](https://www.goodreads.com/book/show/23215733-the-software-craftsman?from_search=true&from_srp=true&qid=pd3MkBt8bW&rank=2)
 * [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code?from_search=true&from_srp=true&qid=DB4ONkqgKh&rank=1)
 * [Clean Architecture](https://www.goodreads.com/book/show/18043011-clean-architecture?from_search=true&from_srp=true&qid=PGY6bQ1kxs&rank=1)
