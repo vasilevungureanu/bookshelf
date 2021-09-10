@@ -66,3 +66,5 @@ Also, I manage a list of technical books that I have a high interest in currentl
 * [Software Architecture for Developers: Volume 1 - Technical leadership and the balance with agility](https://www.goodreads.com/book/show/33221518-software-architecture-for-developers?from_search=true&from_srp=true&qid=agAV9tvllm&rank=1)
 * [Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F#](https://www.goodreads.com/book/show/34921689-domain-modeling-made-functional)
 * [All Gerald Weinberg's books](https://www.goodreads.com/author/show/174075.Gerald_M_Weinberg?from_search=true&from_srp=true)
+* [Freelance Tactics: 10 Tactics That Will Help You Succeed and Thrive in Freelancing
+](https://www.goodreads.com/book/show/58863543-freelance-tactics?from_search=true&from_srp=true&qid=n2IbxxpniC&rank=2)
