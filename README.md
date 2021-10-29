@@ -44,6 +44,7 @@ Also, I manage a list of technical books that I have a high interest in currentl
 
 ### Want to read
 
+* [Modern Software Engineering: Doing What Works to Build Better Software Faster](https://www.amazon.com/Modern-Software-Engineering-Discipline-Development/dp/0137314914)
 * [Software Architecture for Busy Developers: Talk and act like a software architect in one weekend](https://www.amazon.com/Software-Architecture-Busy-Developers-architect-ebook-dp-B09B2R6QN8/dp/B09B2R6QN8/ref=mt_other?_encoding=UTF8&me=&qid=)
 * [Clean Craftsmanship: Disciplines, Standards, and Ethics](https://www.goodreads.com/book/show/58611332-clean-craftsmanship?from_search=true&from_srp=true&qid=M2zNjz9Xgj&rank=2)
 * [Grokking Simplicity: Taming complex software with functional thinking](https://www.goodreads.com/book/show/52257623-grokking-simplicity?from_search=true&from_srp=true&qid=9e7dV1v4QZ&rank=1)
