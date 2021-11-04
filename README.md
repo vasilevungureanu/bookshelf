@@ -1,11 +1,5 @@
 # Bookshelf
 
-There are hundreds and thousands of great technical books.
-I mention only the technical books that I personally read and consider them worth reading.
-Also, I manage a list of technical books that I have a high interest in currently.
-
-## Contents
-
 ### Read
 
 * [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.goodreads.com/book/show/10284614-the-clean-coder?from_search=true&from_srp=true&qid=EmJTczFoSi&rank=2)
