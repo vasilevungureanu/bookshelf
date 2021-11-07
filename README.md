@@ -57,6 +57,7 @@
 *
 * [All Allan Kelly's books](https://leanpub.com/u/allankelly)
 * [All Gerald Weinberg's books](https://www.goodreads.com/author/show/174075.Gerald_M_Weinberg?from_search=true&from_srp=true)
+* [All Andrew Stolyarov's books](http://stolyarov.info/books/programming_intro)
 *
 * [Clean Craftsmanship: Disciplines, Standards, and Ethics](https://www.goodreads.com/book/show/58611332-clean-craftsmanship?from_search=true&from_srp=true&qid=M2zNjz9Xgj&rank=2)
 * [Specification by Example: How Successful Teams Deliver the Right Software](https://www.goodreads.com/book/show/10288718-specification-by-example)
