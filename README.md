@@ -1,5 +1,7 @@
 # Bookshelf
 
+My personal bookshelf with the technical books that I already read or want to read in the near future.
+
 ### Read
 
 * [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.goodreads.com/book/show/10284614-the-clean-coder?from_search=true&from_srp=true&qid=EmJTczFoSi&rank=2)
