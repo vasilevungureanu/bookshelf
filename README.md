@@ -27,6 +27,7 @@ My personal bookshelf with the technical books that I already read or want to re
 * [The Coding Dojo Handbook](https://www.goodreads.com/book/show/17925612-the-coding-dojo-handbook)
 * [TDD](https://www.goodreads.com/book/show/32618000-tdd?from_search=true&from_srp=true&qid=GjOITM6GqI&rank=6)
 * [Test-Driven Development: By Example](https://www.goodreads.com/book/show/387190.Test_Driven_Development)
+* [Clean Craftsmanship: Disciplines, Standards, and Ethics](https://www.goodreads.com/book/show/58611332-clean-craftsmanship?from_search=true&from_srp=true&qid=M2zNjz9Xgj&rank=2)
 * 
 * [Domain-Driven Design Quickly](https://www.goodreads.com/book/show/2558105.Domain_Driven_Design_Quickly?from_search=true&from_srp=true&qid=HZCQaArLZd&rank=1)
 * [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code?from_search=true&from_srp=true&qid=DB4ONkqgKh&rank=1)
@@ -61,7 +62,6 @@ My personal bookshelf with the technical books that I already read or want to re
 * [All Gerald Weinberg's books](https://www.goodreads.com/author/show/174075.Gerald_M_Weinberg?from_search=true&from_srp=true)
 * [All Andrew Stolyarov's books](http://stolyarov.info/books/programming_intro)
 *
-* [Clean Craftsmanship: Disciplines, Standards, and Ethics](https://www.goodreads.com/book/show/58611332-clean-craftsmanship?from_search=true&from_srp=true&qid=M2zNjz9Xgj&rank=2)
 * [Specification by Example: How Successful Teams Deliver the Right Software](https://www.goodreads.com/book/show/10288718-specification-by-example)
 * [The BDD Books: Formulation](https://www.goodreads.com/book/show/53450097-the-bdd-books)
 * [The BDD Books: Discovery](https://www.goodreads.com/book/show/36126762-the-bdd-books)
