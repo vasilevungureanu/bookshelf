@@ -28,6 +28,7 @@ My personal bookshelf with the technical books that I already read or want to re
 * [TDD](https://www.goodreads.com/book/show/32618000-tdd?from_search=true&from_srp=true&qid=GjOITM6GqI&rank=6)
 * [Test-Driven Development: By Example](https://www.goodreads.com/book/show/387190.Test_Driven_Development)
 * [Clean Craftsmanship: Disciplines, Standards, and Ethics](https://www.goodreads.com/book/show/58611332-clean-craftsmanship?from_search=true&from_srp=true&qid=M2zNjz9Xgj&rank=2)
+* [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code?from_search=true&from_srp=true&qid=7XSCpcZn1t&rank=1)
 * 
 * [Domain-Driven Design Quickly](https://www.goodreads.com/book/show/2558105.Domain_Driven_Design_Quickly?from_search=true&from_srp=true&qid=HZCQaArLZd&rank=1)
 * [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code?from_search=true&from_srp=true&qid=DB4ONkqgKh&rank=1)
@@ -38,7 +39,6 @@ My personal bookshelf with the technical books that I already read or want to re
 * [Kotlin in Action](https://www.goodreads.com/book/show/29242249-kotlin-in-action?from_search=true&from_srp=true&qid=kScxC4Z7Xl&rank=1)
 * [Understanding the Four Rules of Simple Design](https://www.goodreads.com/book/show/21841698-understanding-the-four-rules-of-simple-design?from_search=true&from_srp=true&qid=reKu5QpAJK&rank=1)
 * [99 Bottles of OOP](https://www.goodreads.com/book/show/31183020-99-bottles-of-oop?from_search=true&from_srp=true&qid=kWFhktOOyK&rank=1)
-* [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code?from_search=true&from_srp=true&qid=7XSCpcZn1t&rank=1)
 *
 * [The Tech Resume Inside Out](https://thetechresume.com/)
 * [Technical Blogging: Amplify Your Influence](https://www.goodreads.com/book/show/45856607-technical-blogging?ac=1&from_search=true&qid=aqMXdLQgnn&rank=1)
