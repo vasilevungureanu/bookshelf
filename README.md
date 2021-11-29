@@ -58,7 +58,6 @@ My personal bookshelf with the technical books that I already read or want to re
 * [All Gerald Weinberg's books](https://www.goodreads.com/author/show/174075.Gerald_M_Weinberg?from_search=true&from_srp=true)
 * [All Andrew Stolyarov's books](http://stolyarov.info/books/programming_intro)
 *
-* [BDD in Action: Behavior-driven development for the whole software lifecycle](https://www.goodreads.com/book/show/20578311-bdd-in-action)
 * [Essential Test-Driven Development](https://www.goodreads.com/book/show/29952608-essential-test-driven-development)
 *
 * [Software, faster](https://www.goodreads.com/book/show/34209962-software-faster?from_search=true&from_srp=true&qid=4Kp5CfhxV6&rank=3)
