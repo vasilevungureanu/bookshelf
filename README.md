@@ -47,27 +47,19 @@ My personal bookshelf with the technical books that I already read or want to re
 ### Want to read
 
 * [Help Your Boss Help You](https://www.goodreads.com/book/show/57729490-help-your-boss-help-you)
-* [Ask Your Developer: How to Harness the Power of Software Developers and Win in the 21st Century](https://www.goodreads.com/book/show/48716700-ask-your-developer)
 * [The Healthy Programmer](https://www.goodreads.com/book/show/17229509-the-healthy-programmer)
 * [Freelance Tactics: 10 Tactics That Will Help You Succeed and Thrive in Freelancing](https://www.goodreads.com/book/show/58863543-freelance-tactics?from_search=true&from_srp=true&qid=n2IbxxpniC&rank=2)
 *
 * [The Art of Agile Development](https://www.goodreads.com/book/show/1654215.The_Art_of_Agile_Development)
-* [Quick Glance At: Agile Anti-Patterns](https://www.goodreads.com/book/show/38490227-quick-glance-at?from_search=true&from_srp=true&qid=NWAdZ3rIJC&rank=1)
-* [User Story Mapping: Discover the Whole Story, Build the Right Product](https://www.goodreads.com/book/show/22221112-user-story-mapping?from_search=true&from_srp=true&qid=hKRETi5JQt&rank=1)
 * [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.goodreads.com/book/show/44135420-team-topologies?from_search=true&from_srp=true&qid=oHnsDSNTg8&rank=1)
 * [Software Estimation Without Guessing](https://www.goodreads.com/book/show/53104134-software-estimation-without-guessing)
-* [Accelerate: Building and Scaling High-Performing Technology Organizations](https://www.goodreads.com/book/show/35747076-accelerate?from_search=true&from_srp=true&qid=2I6BPTNtJ8&rank=5)
 *
 * [All Allan Kelly's books](https://leanpub.com/u/allankelly)
 * [All Gerald Weinberg's books](https://www.goodreads.com/author/show/174075.Gerald_M_Weinberg?from_search=true&from_srp=true)
 * [All Andrew Stolyarov's books](http://stolyarov.info/books/programming_intro)
 *
-* [Specification by Example: How Successful Teams Deliver the Right Software](https://www.goodreads.com/book/show/10288718-specification-by-example)
-* [The BDD Books: Formulation](https://www.goodreads.com/book/show/53450097-the-bdd-books)
-* [The BDD Books: Discovery](https://www.goodreads.com/book/show/36126762-the-bdd-books)
 * [BDD in Action: Behavior-driven development for the whole software lifecycle](https://www.goodreads.com/book/show/20578311-bdd-in-action)
 * [Essential Test-Driven Development](https://www.goodreads.com/book/show/29952608-essential-test-driven-development)
-* [Fifty Quick Ideas To Improve Your Tests](https://www.goodreads.com/book/show/25564600-fifty-quick-ideas-to-improve-your-tests)
 *
 * [Software, faster](https://www.goodreads.com/book/show/34209962-software-faster?from_search=true&from_srp=true&qid=4Kp5CfhxV6&rank=3)
 * [Modern Software Engineering: Doing What Works to Build Better Software Faster](https://www.amazon.com/Modern-Software-Engineering-Discipline-Development/dp/0137314914)
