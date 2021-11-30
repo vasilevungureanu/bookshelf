@@ -50,6 +50,7 @@ My personal bookshelf with the technical books that I already read or want to re
 * [The Healthy Programmer](https://www.goodreads.com/book/show/17229509-the-healthy-programmer)
 * [Freelance Tactics: 10 Tactics That Will Help You Succeed and Thrive in Freelancing](https://www.goodreads.com/book/show/58863543-freelance-tactics?from_search=true&from_srp=true&qid=n2IbxxpniC&rank=2)
 *
+* [Code That Fits in Your Head: Heuristics for Software Engineering](https://www.goodreads.com/book/show/57345272-code-that-fits-in-your-head?from_search=true&from_srp=true&qid=p38e2fVGyF&rank=1)
 * [The Art of Agile Development](https://www.goodreads.com/book/show/1654215.The_Art_of_Agile_Development)
 * [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.goodreads.com/book/show/44135420-team-topologies?from_search=true&from_srp=true&qid=oHnsDSNTg8&rank=1)
 * [Software Estimation Without Guessing](https://www.goodreads.com/book/show/53104134-software-estimation-without-guessing)
