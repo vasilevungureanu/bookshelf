@@ -60,6 +60,7 @@ My personal bookshelf with the technical books that I already read or want to re
 * [All Andrew Stolyarov's books](http://stolyarov.info/books/programming_intro)
 *
 * [Essential Test-Driven Development](https://www.goodreads.com/book/show/29952608-essential-test-driven-development)
+* [Effective Software Testing](https://www.effective-software-testing.com/)
 *
 * [Software, faster](https://www.goodreads.com/book/show/34209962-software-faster?from_search=true&from_srp=true&qid=4Kp5CfhxV6&rank=3)
 * [Modern Software Engineering: Doing What Works to Build Better Software Faster](https://www.amazon.com/Modern-Software-Engineering-Discipline-Development/dp/0137314914)
