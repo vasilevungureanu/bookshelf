@@ -59,6 +59,7 @@ My personal bookshelf with the technical books that I already read or want to re
 * [All Gerald Weinberg's books](https://www.goodreads.com/author/show/174075.Gerald_M_Weinberg?from_search=true&from_srp=true)
 * [All Andrew Stolyarov's books](http://stolyarov.info/books/programming_intro)
 *
+* [Unit Testing: Principles, Practices, and Patterns](https://www.goodreads.com/book/show/48927138-unit-testing?from_search=true&from_srp=true&qid=BZlkcaFXuP&rank=1)
 * [Essential Test-Driven Development](https://www.goodreads.com/book/show/29952608-essential-test-driven-development)
 * [Effective Software Testing](https://www.effective-software-testing.com/)
 *
