@@ -69,3 +69,4 @@ My personal bookshelf with the technical books that I already read or want to re
 * [The Software Architect Elevator: Transforming Enterprises with Technology and Business Architecture](https://www.goodreads.com/book/show/49828197-the-software-architect-elevator?from_search=true&from_srp=true&qid=DYVPyCKxB5&rank=1)
 * [Software Architecture for Developers: Volume 1 - Technical leadership and the balance with agility](https://www.goodreads.com/book/show/33221518-software-architecture-for-developers?from_search=true&from_srp=true&qid=agAV9tvllm&rank=1)
 * [Grokking Simplicity: Taming complex software with functional thinking](https://www.goodreads.com/book/show/52257623-grokking-simplicity?from_search=true&from_srp=true&qid=9e7dV1v4QZ&rank=1)
+* [The Anatomy Of Domain-Driven Design](https://www.goodreads.com/book/show/34391608-the-anatomy-of-domain-driven-design)
