@@ -54,6 +54,7 @@ My personal bookshelf with the technical books that I already read or want to re
 * [The Art of Agile Development](https://www.goodreads.com/book/show/1654215.The_Art_of_Agile_Development)
 * [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.goodreads.com/book/show/44135420-team-topologies?from_search=true&from_srp=true&qid=oHnsDSNTg8&rank=1)
 * [Software Estimation Without Guessing](https://www.goodreads.com/book/show/53104134-software-estimation-without-guessing)
+* [Engineering the Digital Transformation](https://garygruver.gumroad.com/l/Kkjxb)
 *
 * [All Allan Kelly's books](https://leanpub.com/u/allankelly)
 * [All Gerald Weinberg's books](https://www.goodreads.com/author/show/174075.Gerald_M_Weinberg?from_search=true&from_srp=true)
