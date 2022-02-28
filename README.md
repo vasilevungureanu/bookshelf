@@ -36,6 +36,7 @@ My personal bookshelf with the technical books that I already read or want to re
 * [A Philosophy of Software Design](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design?from_search=true&from_srp=true&qid=QgTewZjGX0&rank=1)
 * [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.goodreads.com/book/show/48816586-software-engineering-at-google?from_search=true&from_srp=true&qid=SzmPE18nnR&rank=1)
 * [Building Mobile Apps at Scale: 39 Engineering Challenges](https://www.goodreads.com/book/show/57668267-building-mobile-apps-at-scale?from_search=true&from_srp=true&qid=opZcmAsoXD&rank=1)
+* [Effective Java Third Edition](https://www.goodreads.com/book/show/34927404-effective-java)
 * [Kotlin in Action](https://www.goodreads.com/book/show/29242249-kotlin-in-action?from_search=true&from_srp=true&qid=kScxC4Z7Xl&rank=1)
 * [Understanding the Four Rules of Simple Design](https://www.goodreads.com/book/show/21841698-understanding-the-four-rules-of-simple-design?from_search=true&from_srp=true&qid=reKu5QpAJK&rank=1)
 * [99 Bottles of OOP](https://www.goodreads.com/book/show/31183020-99-bottles-of-oop?from_search=true&from_srp=true&qid=kWFhktOOyK&rank=1)
