@@ -41,6 +41,8 @@ My personal bookshelf with the technical books that I already read or want to re
 * [Understanding the Four Rules of Simple Design](https://www.goodreads.com/book/show/21841698-understanding-the-four-rules-of-simple-design?from_search=true&from_srp=true&qid=reKu5QpAJK&rank=1)
 * [99 Bottles of OOP](https://www.goodreads.com/book/show/31183020-99-bottles-of-oop?from_search=true&from_srp=true&qid=kWFhktOOyK&rank=1)
 *
+* [Androids: The Team That Built the Android Operating System](https://www.goodreads.com/book/show/58753360-androids)
+*
 * [The Tech Resume Inside Out](https://thetechresume.com/)
 * [Technical Blogging: Amplify Your Influence](https://www.goodreads.com/book/show/45856607-technical-blogging?ac=1&from_search=true&qid=aqMXdLQgnn&rank=1)
 * [Code: The Hidden Language of Computer Hardware and Software](https://www.goodreads.com/book/show/44882.Code?from_search=true&from_srp=true&qid=3JUv1rzBH8&rank=1)
